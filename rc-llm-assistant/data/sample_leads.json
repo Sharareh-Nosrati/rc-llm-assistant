@@ -1,0 +1,24 @@
+[
+  {
+    "lead_id": "L-1001",
+    "name": "Mario Rossi",
+    "restaurant_name": "Trattoria Milano",
+    "restaurant_type": "Italian",
+    "city": "Milan",
+    "source": "meta",
+    "utm_campaign": "winter_offer_2025",
+    "actions": ["menu_viewed", "reservation_started"],
+    "notes": "Interested but did not complete reservation"
+  },
+  {
+    "lead_id": "L-1002",
+    "name": "Giulia Bianchi",
+    "restaurant_name": "Neon Ramen",
+    "restaurant_type": "Japanese",
+    "city": "Pisa",
+    "source": "google",
+    "utm_campaign": "search_brand_2025",
+    "actions": ["menu_viewed", "reservation_completed", "payment_completed"],
+    "notes": "Converted quickly, high intent"
+  }
+]
